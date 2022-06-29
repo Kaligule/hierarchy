@@ -1,8 +1,8 @@
 * ⚠ Integration into Emas core
 
 This project got integrated into Emacs core after the release of Emacs
-27.1. Please contribute patches to Emacs core directly instead of
-here.
+[[https://www.gnu.org/savannah-checkouts/gnu/emacs/news/NEWS.28.1][28.1]].
+Please contribute patches to Emacs core directly instead of here.
 
 * Hierarchy
   #+BEGIN_HTML
